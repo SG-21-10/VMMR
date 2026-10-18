@@ -1,0 +1,168 @@
+label_index,make,model,generation,year_from,year_to,body_type,segment,status
+0,Maruti Suzuki,Alto 800,2nd gen,2012,2022,Hatchback,Entry,Discontinued
+1,Maruti Suzuki,Alto K10,3rd gen,2022,2026,Hatchback,Entry,Current
+2,Maruti Suzuki,S-Presso,1st gen,2019,2026,Micro-SUV,Entry,Current
+3,Maruti Suzuki,Celerio,2nd gen,2021,2026,Hatchback,Entry,Current
+4,Maruti Suzuki,Wagon R,3rd gen,2019,2026,Tall hatch,Entry,Current
+5,Maruti Suzuki,Swift,3rd gen,2018,2024,Hatchback,Premium hatch,Discontinued
+6,Maruti Suzuki,Swift,4th gen,2024,2026,Hatchback,Premium hatch,Current
+7,Maruti Suzuki,Dzire,3rd gen,2017,2024,Compact sedan,Compact sedan,Discontinued
+8,Maruti Suzuki,Dzire,4th gen,2024,2026,Compact sedan,Compact sedan,Current
+9,Maruti Suzuki,Baleno,2nd gen facelift,2022,2026,Hatchback,Premium hatch,Current
+10,Maruti Suzuki,Ignis,facelift,2020,2026,Micro-SUV hatch,Entry,Current
+11,Maruti Suzuki,Fronx,1st gen,2023,2026,Coupe-SUV,Sub-4m SUV,Current
+12,Maruti Suzuki,Vitara Brezza,1st gen,2016,2021,Sub-4m SUV,Sub-4m SUV,Discontinued
+13,Maruti Suzuki,Brezza,2nd gen,2022,2026,Sub-4m SUV,Sub-4m SUV,Current
+14,Maruti Suzuki,Ertiga,2nd gen facelift,2022,2026,MPV,MPV,Current
+15,Maruti Suzuki,XL6,2nd gen,2022,2026,MPV,Premium MPV,Current
+16,Maruti Suzuki,Ciaz,facelift,2018,2026,Sedan,Mid sedan,Current
+17,Maruti Suzuki,Grand Vitara,1st gen,2022,2026,Mid SUV,Mid SUV,Current
+18,Maruti Suzuki,Jimny,5-door,2023,2026,Off-roader,Lifestyle SUV,Current
+19,Maruti Suzuki,Invicto,1st gen,2023,2026,Premium MPV,Premium MPV,Current
+20,Maruti Suzuki,Eeco,facelift,2010,2026,Van,LCV / van,Current
+21,Maruti Suzuki,Omni,final,1984,2019,Van,LCV / van,Discontinued
+22,Maruti Suzuki,Alto,1st gen,2000,2012,Hatchback,Entry,Discontinued
+23,Maruti Suzuki,Ritz,1st gen,2009,2017,Hatchback,Entry,Discontinued
+24,Maruti Suzuki,e Vitara,1st gen,2025,2026,Electric SUV,Mid EV SUV,Current
+25,Hyundai,Creta,2nd gen,2020,2024,Mid SUV,Mid SUV,Discontinued
+26,Hyundai,Creta,3rd gen,2024,2026,Mid SUV,Mid SUV,Current
+27,Hyundai,Creta N Line,1st,2024,2026,Mid SUV,Mid SUV,Current
+28,Hyundai,Venue,2nd gen facelift,2022,2026,Sub-4m SUV,Sub-4m SUV,Current
+29,Hyundai,Exter,1st gen,2023,2026,Micro-SUV,Micro-SUV,Current
+30,Hyundai,i20,3rd gen facelift,2023,2026,Hatchback,Premium hatch,Current
+31,Hyundai,i20 N Line,facelift,2023,2026,Hatchback,Premium hatch,Current
+32,Hyundai,Grand i10 Nios,facelift,2023,2026,Hatchback,Entry hatch,Current
+33,Hyundai,Aura,facelift,2023,2026,Compact sedan,Compact sedan,Current
+34,Hyundai,Verna,7th gen,2023,2026,Sedan,Mid sedan,Current
+35,Hyundai,Verna,6th gen,2020,2023,Sedan,Mid sedan,Discontinued
+36,Hyundai,Alcazar,1st gen,2021,2026,7-seat SUV,7-seat SUV,Current
+37,Hyundai,Tucson,4th gen,2022,2026,Premium SUV,Premium SUV,Current
+38,Hyundai,Santro,2nd gen,2018,2022,Tall hatch,Entry,Discontinued
+39,Hyundai,Eon,1st gen,2011,2019,Hatchback,Entry,Discontinued
+40,Hyundai,Xcent,1st gen,2014,2019,Compact sedan,Compact sedan,Discontinued
+41,Hyundai,Ioniq 5,1st gen,2023,2026,Electric SUV,Premium EV,Current
+42,Hyundai,Kona Electric,1st gen,2019,2023,Electric SUV,EV SUV,Discontinued
+43,Tata,Nexon,facelift 2023,2023,2026,Sub-4m SUV,Sub-4m SUV,Current
+44,Tata,Nexon,pre-facelift,2017,2023,Sub-4m SUV,Sub-4m SUV,Discontinued
+45,Tata,Nexon EV,facelift,2023,2026,Electric sub-4m SUV,EV,Current
+46,Tata,Punch,1st gen,2021,2026,Micro-SUV,Micro-SUV,Current
+47,Tata,Punch EV,1st gen,2024,2026,Micro EV SUV,EV,Current
+48,Tata,Tiago,facelift,2023,2026,Hatchback,Entry hatch,Current
+49,Tata,Tigor,facelift,2023,2026,Compact sedan,Compact sedan,Current
+50,Tata,Altroz,facelift,2023,2026,Hatchback,Premium hatch,Current
+51,Tata,Harrier,facelift 2023,2023,2026,Mid SUV,Mid SUV,Current
+52,Tata,Safari,facelift 2023,2023,2026,7-seat SUV,7-seat SUV,Current
+53,Tata,Curvv,1st gen,2024,2026,Coupe-SUV,Mid SUV,Current
+54,Tata,Tiago EV,1st gen,2023,2026,Electric hatch,EV,Current
+55,Tata,Nano,1st gen,2009,2018,Micro hatch,Entry,Discontinued
+56,Tata,Indica,Vista,2008,2015,Hatchback,Entry,Discontinued
+57,Tata,Sumo,Gold,2012,2019,Utility,UV,Discontinued
+58,Tata,Hexa,1st gen,2017,2020,Crossover MPV,MPV,Discontinued
+59,Tata,Ace,Gold,2005,2026,Mini truck,LCV,Current
+60,Tata,Winger,facelift,2007,2026,Van,LCV / van,Current
+61,Mahindra,Scorpio N,1st gen,2022,2026,Mid SUV,Mid SUV,Current
+62,Mahindra,Scorpio Classic,facelift,2022,2026,Mid SUV,Mid SUV,Current
+63,Mahindra,Thar,3-door,2020,2026,Off-roader,Lifestyle SUV,Current
+64,Mahindra,Thar Roxx,5-door,2024,2026,Off-roader,Lifestyle SUV,Current
+65,Mahindra,XUV700,1st gen,2021,2026,7-seat SUV,Premium SUV,Current
+66,Mahindra,XUV 3XO,1st gen,2024,2026,Sub-4m SUV,Sub-4m SUV,Current
+67,Mahindra,XUV300,1st gen,2019,2024,Sub-4m SUV,Sub-4m SUV,Discontinued
+68,Mahindra,Bolero,classic,2011,2026,Utility SUV,UV,Current
+69,Mahindra,Bolero Neo,1st gen,2021,2026,Compact SUV,UV,Current
+70,Mahindra,XUV400 EV,1st gen,2023,2026,Electric SUV,EV,Current
+71,Mahindra,BE 6,1st gen,2025,2026,Electric SUV,Premium EV,Current
+72,Mahindra,XEV 9e,1st gen,2025,2026,Electric coupe-SUV,Premium EV,Current
+73,Mahindra,Marazzo,1st gen,2018,2022,MPV,MPV,Discontinued
+74,Mahindra,XUV500,2nd gen,2015,2021,7-seat SUV,Premium SUV,Discontinued
+75,Mahindra,KUV100 NXT,facelift,2017,2022,Micro-SUV,Micro-SUV,Discontinued
+76,Mahindra,Supro,van,2015,2026,Van,LCV / van,Current
+77,Kia,Seltos,facelift 2023,2023,2026,Mid SUV,Mid SUV,Current
+78,Kia,Seltos,pre-facelift,2019,2023,Mid SUV,Mid SUV,Discontinued
+79,Kia,Sonet,facelift 2024,2024,2026,Sub-4m SUV,Sub-4m SUV,Current
+80,Kia,Carens,1st gen,2022,2026,MPV,MPV,Current
+81,Kia,Syros,1st gen,2025,2026,Sub-4m SUV,Sub-4m SUV,Current
+82,Kia,Carnival,4th gen,2024,2026,Premium MPV,Premium MPV,Current
+83,Kia,EV6,1st gen,2022,2026,Electric crossover,Premium EV,Current
+84,Toyota,Innova Crysta,facelift,2020,2026,MPV,Premium MPV,Current
+85,Toyota,Innova Hycross,1st gen,2023,2026,Premium MPV,Premium MPV,Current
+86,Toyota,Fortuner,2nd gen facelift,2021,2026,Full-size SUV,Premium SUV,Current
+87,Toyota,Glanza,facelift,2022,2026,Hatchback,Premium hatch,Current
+88,Toyota,Urban Cruiser Hyryder,1st gen,2022,2026,Mid SUV,Mid SUV,Current
+89,Toyota,Urban Cruiser Taisor,1st gen,2024,2026,Coupe-SUV,Sub-4m SUV,Current
+90,Toyota,Rumion,1st gen,2023,2026,MPV,MPV,Current
+91,Toyota,Camry,9th gen,2024,2026,Sedan,Premium sedan,Current
+92,Toyota,Etios,Liva/sedan,2010,2020,Hatch/sedan,Entry,Discontinued
+93,Toyota,Corolla Altis,11th gen,2014,2020,Sedan,Mid sedan,Discontinued
+94,Toyota,Qualis,1st gen,2000,2004,MPV,MPV,Discontinued
+95,Toyota,Land Cruiser,LC300,2022,2026,Full-size SUV,Luxury SUV,Current
+96,Honda,City,5th gen facelift,2023,2026,Sedan,Mid sedan,Current
+97,Honda,City,4th gen,2017,2023,Sedan,Mid sedan,Discontinued
+98,Honda,Amaze,3rd gen,2024,2026,Compact sedan,Compact sedan,Current
+99,Honda,Amaze,2nd gen,2018,2024,Compact sedan,Compact sedan,Discontinued
+100,Honda,Elevate,1st gen,2023,2026,Mid SUV,Mid SUV,Current
+101,Honda,WR-V,1st gen,2017,2023,Crossover,Crossover,Discontinued
+102,Honda,Jazz,4th gen,2020,2023,Hatchback,Premium hatch,Discontinued
+103,Honda,Civic,10th gen,2019,2021,Sedan,Premium sedan,Discontinued
+104,Honda,CR-V,5th gen,2018,2022,Premium SUV,Premium SUV,Discontinued
+105,Renault,Kwid,facelift 2022,2022,2026,Micro-SUV hatch,Entry,Current
+106,Renault,Triber,facelift,2023,2026,Compact MPV,MPV,Current
+107,Renault,Kiger,facelift,2022,2026,Sub-4m SUV,Sub-4m SUV,Current
+108,Renault,Duster,1st gen facelift,2016,2022,Mid SUV,Mid SUV,Discontinued
+109,Renault,Lodgy,1st gen,2015,2020,MPV,MPV,Discontinued
+110,Nissan,Magnite,facelift 2024,2024,2026,Sub-4m SUV,Sub-4m SUV,Current
+111,Nissan,Kicks,1st gen,2019,2022,Mid SUV,Mid SUV,Discontinued
+112,Nissan,Sunny,1st gen,2011,2019,Sedan,Mid sedan,Discontinued
+113,Nissan,Terrano,1st gen,2013,2020,Mid SUV,Mid SUV,Discontinued
+114,MG,Hector,facelift 2023,2023,2026,Mid SUV,Mid SUV,Current
+115,MG,Hector Plus,facelift,2023,2026,6/7-seat SUV,7-seat SUV,Current
+116,MG,Astor,1st gen,2021,2026,Mid SUV,Mid SUV,Current
+117,MG,ZS EV,facelift,2022,2026,Electric SUV,EV SUV,Current
+118,MG,Comet EV,1st gen,2023,2026,Micro EV,EV,Current
+119,MG,Windsor EV,1st gen,2024,2026,Electric CUV,EV,Current
+120,MG,Gloster,facelift,2022,2026,Full-size SUV,Premium SUV,Current
+121,Skoda,Kushaq,1st gen,2021,2026,Mid SUV,Mid SUV,Current
+122,Skoda,Slavia,1st gen,2022,2026,Sedan,Mid sedan,Current
+123,Skoda,Kylaq,1st gen,2025,2026,Sub-4m SUV,Sub-4m SUV,Current
+124,Skoda,Octavia,4th gen,2021,2026,Sedan,Premium sedan,Current
+125,Skoda,Superb,3rd gen,2020,2026,Sedan,Luxury sedan,Current
+126,Skoda,Rapid,facelift,2017,2022,Sedan,Mid sedan,Discontinued
+127,Volkswagen,Virtus,1st gen,2022,2026,Sedan,Mid sedan,Current
+128,Volkswagen,Taigun,1st gen,2021,2026,Mid SUV,Mid SUV,Current
+129,Volkswagen,Polo,6th gen,2010,2022,Hatchback,Premium hatch,Discontinued
+130,Volkswagen,Vento,facelift,2015,2022,Sedan,Mid sedan,Discontinued
+131,Volkswagen,Tiguan,2nd gen,2021,2026,Premium SUV,Premium SUV,Current
+132,Volkswagen,Ameo,1st gen,2016,2020,Compact sedan,Compact sedan,Discontinued
+133,Ford,EcoSport,facelift,2017,2021,Sub-4m SUV,Sub-4m SUV,Discontinued
+134,Ford,Figo,3rd gen,2019,2021,Hatchback,Entry hatch,Discontinued
+135,Ford,Aspire,facelift,2018,2021,Compact sedan,Compact sedan,Discontinued
+136,Ford,Endeavour,3rd gen,2016,2021,Full-size SUV,Premium SUV,Discontinued
+137,Ford,Freestyle,1st gen,2018,2021,Crossover hatch,Crossover,Discontinued
+138,Chevrolet,Beat,facelift,2014,2017,Hatchback,Entry hatch,Discontinued
+139,Chevrolet,Tavera,Neo,2012,2017,MPV,MPV,Discontinued
+140,Chevrolet,Cruze,facelift,2013,2017,Sedan,Mid sedan,Discontinued
+141,Jeep,Compass,facelift,2021,2026,Mid SUV,Premium SUV,Current
+142,Jeep,Meridian,1st gen,2022,2026,7-seat SUV,Premium SUV,Current
+143,Jeep,Wrangler,JL,2021,2026,Off-roader,Lifestyle SUV,Current
+144,Citroen,C3,1st gen,2022,2026,Hatchback,Entry hatch,Current
+145,Citroen,C3 Aircross,1st gen,2023,2026,7-seat SUV,Mid SUV,Current
+146,Citroen,Basalt,1st gen,2024,2026,Coupe-SUV,Mid SUV,Current
+147,Citroen,eC3,1st gen,2023,2026,Electric hatch,EV,Current
+148,Isuzu,D-Max V-Cross,facelift,2021,2026,Pickup,Pickup,Current
+149,Isuzu,MU-X,1st gen,2017,2026,Full-size SUV,Premium SUV,Current
+150,Force,Traveller,facelift,2010,2026,Van / minibus,LCV / van,Current
+151,Force,Gurkha,2nd gen,2021,2026,Off-roader,Lifestyle SUV,Current
+152,Mercedes-Benz,C-Class,W206,2022,2026,Sedan,Luxury sedan,Current
+153,Mercedes-Benz,GLC,X254,2023,2026,Luxury SUV,Luxury SUV,Current
+154,BMW,3 Series,G20,2019,2026,Sedan,Luxury sedan,Current
+155,BMW,X1,U11,2023,2026,Luxury SUV,Luxury SUV,Current
+156,Audi,Q3,2nd gen,2022,2026,Luxury SUV,Luxury SUV,Current
+157,Audi,A4,B9 facelift,2021,2026,Sedan,Luxury sedan,Current
+158,Volvo,XC60,2nd gen,2021,2026,Luxury SUV,Luxury SUV,Current
+159,Lexus,ES,7th gen,2021,2026,Luxury sedan,Luxury sedan,Current
+160,Ashok Leyland,Dost,facelift,2011,2026,Mini truck,LCV,Current
+161,Ashok Leyland,Bus (city),various,2010,2026,Bus,Bus,Current
+162,Tata,LPT truck,various,2010,2026,Truck,HCV,Current
+163,Eicher,Pro series,various,2013,2026,Truck,HCV,Current
+164,Mahindra,Bolero Pickup,facelift,2011,2026,Pickup,LCV,Current
+165,Hindustan Motors,Ambassador,Mark IV,1990,2014,Sedan,Historic,Discontinued
+166,Premier,Padmini,1st gen,1974,2000,Sedan,Historic,Discontinued

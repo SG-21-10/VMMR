@@ -1,0 +1,64 @@
+label_index,make,model,generation,year_from,year_to,body_type,segment,status
+1,Maruti Suzuki,Alto K10,3rd gen,2022,2026,Hatchback,Entry,Current
+2,Maruti Suzuki,S-Presso,1st gen,2019,2026,Micro-SUV,Entry,Current
+3,Maruti Suzuki,Celerio,2nd gen,2021,2026,Hatchback,Entry,Current
+4,Maruti Suzuki,Wagon R,3rd gen,2019,2026,Tall hatch,Entry,Current
+6,Maruti Suzuki,Swift,4th gen,2024,2026,Hatchback,Premium hatch,Current
+8,Maruti Suzuki,Dzire,4th gen,2024,2026,Compact sedan,Compact sedan,Current
+9,Maruti Suzuki,Baleno,2nd gen facelift,2022,2026,Hatchback,Premium hatch,Current
+10,Maruti Suzuki,Ignis,facelift,2020,2026,Micro-SUV hatch,Entry,Current
+11,Maruti Suzuki,Fronx,1st gen,2023,2026,Coupe-SUV,Sub-4m SUV,Current
+13,Maruti Suzuki,Brezza,2nd gen,2022,2026,Sub-4m SUV,Sub-4m SUV,Current
+14,Maruti Suzuki,Ertiga,2nd gen facelift,2022,2026,MPV,MPV,Current
+15,Maruti Suzuki,XL6,2nd gen,2022,2026,MPV,Premium MPV,Current
+16,Maruti Suzuki,Ciaz,facelift,2018,2026,Sedan,Mid sedan,Current
+17,Maruti Suzuki,Grand Vitara,1st gen,2022,2026,Mid SUV,Mid SUV,Current
+18,Maruti Suzuki,Jimny,5-door,2023,2026,Off-roader,Lifestyle SUV,Current
+19,Maruti Suzuki,Invicto,1st gen,2023,2026,Premium MPV,Premium MPV,Current
+20,Maruti Suzuki,Eeco,facelift,2010,2026,Van,LCV / van,Current
+24,Maruti Suzuki,e Vitara,1st gen,2025,2026,Electric SUV,Mid EV SUV,Current
+26,Hyundai,Creta,3rd gen,2024,2026,Mid SUV,Mid SUV,Current
+27,Hyundai,Creta N Line,1st,2024,2026,Mid SUV,Mid SUV,Current
+28,Hyundai,Venue,2nd gen facelift,2022,2026,Sub-4m SUV,Sub-4m SUV,Current
+29,Hyundai,Exter,1st gen,2023,2026,Micro-SUV,Micro-SUV,Current
+30,Hyundai,i20,3rd gen facelift,2023,2026,Hatchback,Premium hatch,Current
+31,Hyundai,i20 N Line,facelift,2023,2026,Hatchback,Premium hatch,Current
+32,Hyundai,Grand i10 Nios,facelift,2023,2026,Hatchback,Entry hatch,Current
+33,Hyundai,Aura,facelift,2023,2026,Compact sedan,Compact sedan,Current
+34,Hyundai,Verna,7th gen,2023,2026,Sedan,Mid sedan,Current
+36,Hyundai,Alcazar,1st gen,2021,2026,7-seat SUV,7-seat SUV,Current
+37,Hyundai,Tucson,4th gen,2022,2026,Premium SUV,Premium SUV,Current
+41,Hyundai,Ioniq 5,1st gen,2023,2026,Electric SUV,Premium EV,Current
+43,Tata,Nexon,facelift 2023,2023,2026,Sub-4m SUV,Sub-4m SUV,Current
+45,Tata,Nexon EV,facelift,2023,2026,Electric sub-4m SUV,EV,Current
+46,Tata,Punch,1st gen,2021,2026,Micro-SUV,Micro-SUV,Current
+47,Tata,Punch EV,1st gen,2024,2026,Micro EV SUV,EV,Current
+48,Tata,Tiago,facelift,2023,2026,Hatchback,Entry hatch,Current
+49,Tata,Tigor,facelift,2023,2026,Compact sedan,Compact sedan,Current
+50,Tata,Altroz,facelift,2023,2026,Hatchback,Premium hatch,Current
+51,Tata,Harrier,facelift 2023,2023,2026,Mid SUV,Mid SUV,Current
+52,Tata,Safari,facelift 2023,2023,2026,7-seat SUV,7-seat SUV,Current
+53,Tata,Curvv,1st gen,2024,2026,Coupe-SUV,Mid SUV,Current
+54,Tata,Tiago EV,1st gen,2023,2026,Electric hatch,EV,Current
+59,Tata,Ace,Gold,2005,2026,Mini truck,LCV,Current
+60,Tata,Winger,facelift,2007,2026,Van,LCV / van,Current
+61,Mahindra,Scorpio N,1st gen,2022,2026,Mid SUV,Mid SUV,Current
+62,Mahindra,Scorpio Classic,facelift,2022,2026,Mid SUV,Mid SUV,Current
+63,Mahindra,Thar,3-door,2020,2026,Off-roader,Lifestyle SUV,Current
+64,Mahindra,Thar Roxx,5-door,2024,2026,Off-roader,Lifestyle SUV,Current
+65,Mahindra,XUV700,1st gen,2021,2026,7-seat SUV,Premium SUV,Current
+66,Mahindra,XUV 3XO,1st gen,2024,2026,Sub-4m SUV,Sub-4m SUV,Current
+68,Mahindra,Bolero,classic,2011,2026,Utility SUV,UV,Current
+69,Mahindra,Bolero Neo,1st gen,2021,2026,Compact SUV,UV,Current
+70,Mahindra,XUV400 EV,1st gen,2023,2026,Electric SUV,EV,Current
+71,Mahindra,BE 6,1st gen,2025,2026,Electric SUV,Premium EV,Current
+72,Mahindra,XEV 9e,1st gen,2025,2026,Electric coupe-SUV,Premium EV,Current
+76,Mahindra,Supro,van,2015,2026,Van,LCV / van,Current
+77,Kia,Seltos,facelift 2023,2023,2026,Mid SUV,Mid SUV,Current
+79,Kia,Sonet,facelift 2024,2024,2026,Sub-4m SUV,Sub-4m SUV,Current
+80,Kia,Carens,1st gen,2022,2026,MPV,MPV,Current
+81,Kia,Syros,1st gen,2025,2026,Sub-4m SUV,Sub-4m SUV,Current
+82,Kia,Carnival,4th gen,2024,2026,Premium MPV,Premium MPV,Current
+83,Kia,EV6,1st gen,2022,2026,Electric crossover,Premium EV,Current
+162,Tata,LPT truck,various,2010,2026,Truck,HCV,Current
+164,Mahindra,Bolero Pickup,facelift,2011,2026,Pickup,LCV,Current
